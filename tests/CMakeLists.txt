@@ -1,0 +1,21 @@
+include_directories(../src)
+
+add_executable(test_scenario_loader test_scenario_loader.cpp)
+target_link_libraries(test_scenario_loader PUBLIC pra_star_common)
+add_test(test_scenario_loader test_scenario_loader)
+
+add_executable(test_graph_generator test_graph_generator.cpp)
+target_link_libraries(test_graph_generator PUBLIC pra_star_common)
+add_test(test_graph_generator test_graph_generator)
+
+add_executable(test_astar test_astar.cpp)
+target_link_libraries(test_astar PUBLIC pra_star_common)
+add_test(test_astar test_astar)
+
+add_executable(test_cliques test_cliques.cpp)
+target_link_libraries(test_cliques PUBLIC pra_star_common)
+add_test(test_cliques test_cliques)
+
+add_executable(test_hierarchical_graph test_hierarchical_graph.cpp)
+target_link_libraries(test_hierarchical_graph PUBLIC pra_star_common)
+add_test(test_hierarchical_graph test_hierarchical_graph)

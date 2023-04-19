@@ -1,0 +1,58 @@
+Exporting FlatGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0418SR.flat_graph.nop
+Building layer 1
+Clique found, 4: 14401, 3: 78, 2: 704, 1: 170, Islands: 0
+Built layer 1 with nodes 15353 edges 57559
+Building layer 2
+Clique found, 4: 3217, 3: 325, 2: 629, 1: 252, Islands: 0
+Built layer 2 with nodes 4423 edges 14790
+Building layer 3
+Clique found, 4: 652, 3: 392, 2: 225, 1: 189, Islands: 0
+Built layer 3 with nodes 1458 edges 4384
+Building layer 4
+Clique found, 4: 106, 3: 253, 2: 97, 1: 80, Islands: 1
+Built layer 4 with nodes 536 edges 1506
+Building layer 5
+Clique found, 4: 23, 3: 106, 2: 40, 1: 45, Islands: 1
+Built layer 5 with nodes 214 edges 573
+Building layer 6
+Clique found, 4: 12, 3: 38, 2: 14, 1: 23, Islands: 1
+Built layer 6 with nodes 87 edges 217
+Building layer 7
+Clique found, 4: 3, 3: 17, 2: 7, 1: 9, Islands: 1
+Built layer 7 with nodes 36 edges 84
+Building layer 8
+Clique found, 4: 0, 3: 10, 2: 0, 1: 6, Islands: 0
+Built layer 8 with nodes 16 edges 32
+Building layer 9
+Clique found, 4: 1, 3: 2, 2: 2, 1: 2, Islands: 0
+Built layer 9 with nodes 7 edges 11
+Building layer 10
+Clique found, 4: 0, 3: 1, 2: 2, 1: 0, Islands: 0
+Built layer 10 with nodes 3 edges 3
+Building layer 11
+Clique found, 4: 0, 3: 1, 2: 0, 1: 0, Islands: 0
+Built layer 11 with nodes 1 edges 0
+Exporting HierarchicalGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0418SR.hierarchical_graph.nop
+	Command being timed: "/home/tuero/Documents/cmput-658/a3/PRAStar/build/Release/src/create_graphs --map_path /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0418SR.map"
+	User time (seconds): 74.51
+	System time (seconds): 0.15
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 246236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 62756
+	Voluntary context switches: 0
+	Involuntary context switches: 2648
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 55936
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

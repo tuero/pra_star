@@ -1,0 +1,61 @@
+Exporting FlatGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/nighthaven.flat_graph.nop
+Building layer 1
+Clique found, 4: 29465, 3: 256, 2: 2159, 1: 949, Islands: 0
+Built layer 1 with nodes 32829 edges 115288
+Building layer 2
+Clique found, 4: 6176, 3: 1198, 2: 1789, 1: 953, Islands: 0
+Built layer 2 with nodes 10116 edges 30774
+Building layer 3
+Clique found, 4: 1028, 3: 1384, 2: 637, 1: 578, Islands: 0
+Built layer 3 with nodes 3627 edges 9957
+Building layer 4
+Clique found, 4: 161, 3: 721, 2: 245, 1: 316, Islands: 14
+Built layer 4 with nodes 1443 edges 3672
+Building layer 5
+Clique found, 4: 44, 3: 305, 2: 108, 1: 119, Islands: 17
+Built layer 5 with nodes 576 edges 1349
+Building layer 6
+Clique found, 4: 10, 3: 127, 2: 43, 1: 57, Islands: 12
+Built layer 6 with nodes 237 edges 494
+Building layer 7
+Clique found, 4: 2, 3: 49, 2: 28, 1: 25, Islands: 1
+Built layer 7 with nodes 104 edges 187
+Building layer 8
+Clique found, 4: 0, 3: 19, 2: 16, 1: 10, Islands: 5
+Built layer 8 with nodes 45 edges 74
+Building layer 9
+Clique found, 4: 1, 3: 5, 2: 9, 1: 5, Islands: 3
+Built layer 9 with nodes 20 edges 30
+Building layer 10
+Clique found, 4: 0, 3: 3, 2: 3, 1: 3, Islands: 2
+Built layer 10 with nodes 9 edges 12
+Building layer 11
+Clique found, 4: 0, 3: 1, 2: 2, 1: 1, Islands: 1
+Built layer 11 with nodes 4 edges 4
+Building layer 12
+Clique found, 4: 0, 3: 1, 2: 0, 1: 0, Islands: 1
+Built layer 12 with nodes 1 edges 0
+Exporting HierarchicalGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/nighthaven.hierarchical_graph.nop
+	Command being timed: "/home/tuero/Documents/cmput-658/a3/PRAStar/build/Release/src/create_graphs --map_path /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/nighthaven.map"
+	User time (seconds): 309.70
+	System time (seconds): 0.32
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 5:13.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 522888
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 133919
+	Voluntary context switches: 2
+	Involuntary context switches: 4050
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 115184
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

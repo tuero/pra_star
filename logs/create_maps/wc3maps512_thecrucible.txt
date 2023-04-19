@@ -1,0 +1,58 @@
+Exporting FlatGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/thecrucible.flat_graph.nop
+Building layer 1
+Clique found, 4: 17693, 3: 429, 2: 1908, 1: 1756, Islands: 0
+Built layer 1 with nodes 21786 edges 69316
+Building layer 2
+Clique found, 4: 3309, 3: 1575, 2: 1392, 1: 1034, Islands: 7
+Built layer 2 with nodes 7310 edges 19804
+Building layer 3
+Clique found, 4: 464, 3: 1249, 2: 569, 1: 522, Islands: 47
+Built layer 3 with nodes 2804 edges 6932
+Building layer 4
+Clique found, 4: 71, 3: 582, 2: 250, 1: 229, Islands: 45
+Built layer 4 with nodes 1132 edges 2567
+Building layer 5
+Clique found, 4: 21, 3: 228, 2: 112, 1: 110, Islands: 30
+Built layer 5 with nodes 471 edges 958
+Building layer 6
+Clique found, 4: 8, 3: 91, 2: 52, 1: 49, Islands: 13
+Built layer 6 with nodes 200 edges 365
+Building layer 7
+Clique found, 4: 4, 3: 32, 2: 28, 1: 23, Islands: 9
+Built layer 7 with nodes 87 edges 135
+Building layer 8
+Clique found, 4: 0, 3: 19, 2: 9, 1: 5, Islands: 7
+Built layer 8 with nodes 33 edges 42
+Building layer 9
+Clique found, 4: 0, 3: 4, 2: 7, 1: 1, Islands: 6
+Built layer 9 with nodes 12 edges 15
+Building layer 10
+Clique found, 4: 0, 3: 2, 2: 0, 1: 1, Islands: 5
+Built layer 10 with nodes 3 edges 3
+Building layer 11
+Clique found, 4: 0, 3: 1, 2: 0, 1: 0, Islands: 0
+Built layer 11 with nodes 1 edges 0
+Exporting HierarchicalGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/thecrucible.hierarchical_graph.nop
+	Command being timed: "/home/tuero/Documents/cmput-658/a3/PRAStar/build/Release/src/create_graphs --map_path /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/thecrucible.map"
+	User time (seconds): 131.00
+	System time (seconds): 0.20
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:12.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 316520
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 80896
+	Voluntary context switches: 0
+	Involuntary context switches: 999
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 70768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

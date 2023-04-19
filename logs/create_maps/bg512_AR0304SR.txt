@@ -1,0 +1,61 @@
+Exporting FlatGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0304SR.flat_graph.nop
+Building layer 1
+Clique found, 4: 15669, 3: 195, 2: 1214, 1: 392, Islands: 0
+Built layer 1 with nodes 17470 edges 61647
+Building layer 2
+Clique found, 4: 3369, 3: 553, 2: 886, 1: 563, Islands: 0
+Built layer 2 with nodes 5371 edges 16102
+Building layer 3
+Clique found, 4: 610, 3: 631, 2: 370, 1: 298, Islands: 0
+Built layer 3 with nodes 1909 edges 5019
+Building layer 4
+Clique found, 4: 73, 3: 380, 2: 153, 1: 160, Islands: 11
+Built layer 4 with nodes 766 edges 1842
+Building layer 5
+Clique found, 4: 17, 3: 169, 2: 55, 1: 76, Islands: 5
+Built layer 5 with nodes 317 edges 679
+Building layer 6
+Clique found, 4: 6, 3: 71, 2: 26, 1: 26, Islands: 2
+Built layer 6 with nodes 129 edges 231
+Building layer 7
+Clique found, 4: 0, 3: 26, 2: 15, 1: 16, Islands: 5
+Built layer 7 with nodes 57 edges 81
+Building layer 8
+Clique found, 4: 0, 3: 10, 2: 8, 1: 7, Islands: 4
+Built layer 8 with nodes 25 edges 31
+Building layer 9
+Clique found, 4: 0, 3: 3, 2: 4, 1: 4, Islands: 4
+Built layer 9 with nodes 11 edges 12
+Building layer 10
+Clique found, 4: 0, 3: 2, 2: 2, 1: 0, Islands: 1
+Built layer 10 with nodes 4 edges 3
+Building layer 11
+Clique found, 4: 0, 3: 0, 2: 2, 1: 0, Islands: 0
+Built layer 11 with nodes 2 edges 1
+Building layer 12
+Clique found, 4: 0, 3: 0, 2: 1, 1: 0, Islands: 0
+Built layer 12 with nodes 1 edges 0
+Exporting HierarchicalGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0304SR.hierarchical_graph.nop
+	Command being timed: "/home/tuero/Documents/cmput-658/a3/PRAStar/build/Release/src/create_graphs --map_path /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/bg512/AR0304SR.map"
+	User time (seconds): 100.40
+	System time (seconds): 0.20
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:45.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 278924
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 71501
+	Voluntary context switches: 1
+	Involuntary context switches: 3909
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 62376
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,64 @@
+Exporting FlatGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/dragonfire.flat_graph.nop
+Building layer 1
+Clique found, 4: 25074, 3: 549, 2: 2485, 1: 2111, Islands: 0
+Built layer 1 with nodes 30219 edges 98443
+Building layer 2
+Clique found, 4: 4791, 3: 1979, 2: 1887, 1: 1342, Islands: 2
+Built layer 2 with nodes 9999 edges 27909
+Building layer 3
+Clique found, 4: 650, 3: 1704, 2: 743, 1: 748, Islands: 53
+Built layer 3 with nodes 3845 edges 9795
+Building layer 4
+Clique found, 4: 100, 3: 811, 2: 313, 1: 348, Islands: 38
+Built layer 4 with nodes 1572 edges 3714
+Building layer 5
+Clique found, 4: 33, 3: 329, 2: 137, 1: 151, Islands: 28
+Built layer 5 with nodes 650 edges 1388
+Building layer 6
+Clique found, 4: 12, 3: 128, 2: 68, 1: 66, Islands: 16
+Built layer 6 with nodes 274 edges 510
+Building layer 7
+Clique found, 4: 1, 3: 52, 2: 34, 1: 36, Islands: 10
+Built layer 7 with nodes 123 edges 214
+Building layer 8
+Clique found, 4: 1, 3: 21, 2: 18, 1: 16, Islands: 4
+Built layer 8 with nodes 56 edges 95
+Building layer 9
+Clique found, 4: 0, 3: 10, 2: 8, 1: 8, Islands: 2
+Built layer 9 with nodes 26 edges 45
+Building layer 10
+Clique found, 4: 0, 3: 6, 2: 2, 1: 3, Islands: 1
+Built layer 10 with nodes 11 edges 18
+Building layer 11
+Clique found, 4: 0, 3: 2, 2: 2, 1: 1, Islands: 0
+Built layer 11 with nodes 5 edges 6
+Building layer 12
+Clique found, 4: 0, 3: 1, 2: 0, 1: 1, Islands: 1
+Built layer 12 with nodes 2 edges 1
+Building layer 13
+Clique found, 4: 0, 3: 0, 2: 1, 1: 0, Islands: 0
+Built layer 13 with nodes 1 edges 0
+Exporting HierarchicalGraph to /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/dragonfire.hierarchical_graph.nop
+	Command being timed: "/home/tuero/Documents/cmput-658/a3/PRAStar/build/Release/src/create_graphs --map_path /home/tuero/Documents/cmput-658/a3/PRAStar/scenarios/wc3maps512/dragonfire.map"
+	User time (seconds): 270.88
+	System time (seconds): 0.30
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:39.80
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 477816
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 121190
+	Voluntary context switches: 0
+	Involuntary context switches: 6637
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 105088
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
